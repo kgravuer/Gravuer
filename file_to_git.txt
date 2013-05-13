@@ -1,1 +1,3 @@
-An altered test file for working with remote and local repositories
+A test file for working with remote and local repositories at Software Carpentry Bootcamp -- 
+
+the line above had its conflict resolved
